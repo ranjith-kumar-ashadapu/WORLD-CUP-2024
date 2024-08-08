@@ -16,6 +16,6 @@ The main objective of this SQL project is to develop a thorough database for the
 SQL (Structured Query Language) for database design and querying.
 
 
-**Contributions**:
+# **Contributions**:
 
 Contributions and feedback from the community are welcome to enhance the project further.
