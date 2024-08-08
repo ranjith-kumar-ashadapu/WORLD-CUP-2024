@@ -15,6 +15,12 @@ The main objective of this SQL project is to develop a thorough database for the
 
 SQL (Structured Query Language) for database design and querying.
 
+**Future Enhancements**:
+
+Integration with a web application for a user-friendly interface.
+Incorporation of real-time data updates during the tournament.
+Advanced analytics features for in-depth insights into player and team performance.
+
 
 # **Contributions**:
 
